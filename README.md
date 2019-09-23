@@ -3,6 +3,12 @@ Groovy Spring Boot Demo
 
 Spring Boot Demo with Groovy
 
+# Features
+
+* GDK
+* Groovy DSL
+* Reactive
+* Spock testing
 
 # References
 
